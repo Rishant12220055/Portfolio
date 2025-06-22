@@ -15,7 +15,7 @@
   <img src="public/layout.mp4" alt="Portfolio Demo">
 </p>
 
-**Live Demo:** [Link to your deployed portfolio](#) <!-- Add your live demo link here -->
+**Live Demo:** [https://portfolio-pi-puce-95.vercel.app/](https://portfolio-pi-puce-95.vercel.app/)
 
 ## ✨ Features
 
@@ -56,7 +56,9 @@ Here are some of the projects I've worked on:
 
 ## 👨‍💻 About Me
 
-I am a passionate Computer Science student at **Lovely Professional University** (2022-2026). I have a strong interest in web development and building projects that are both user-friendly and functional. I'm always eager to learn new technologies and improve my skills.
+I'm a Results-driven Full Stack Developer with expertise in building and maintaining web applications using modern technologies such as JavaScript, Node.js, React, and MongoDB. Proficient in both front-end and back-end development, with strong problem-solving skills and a focus on delivering scalable, high-performance solutions.
+
+Experienced in working with RESTful APIs, version control, and deploying applications to cloud platforms. Passionate about writing clean, maintainable code and continuously learning new technologies to drive project success.
 
 ## 🚀 Getting Started
 
@@ -71,7 +73,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your_username/your_repository.git # Add your repo link here
+    git clone https://github.com/Rishant12220055/Portfolio.git
     ```
 2.  Install NPM packages
     ```sh
@@ -86,10 +88,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your_username/your_repository/issues). <!-- Add your repo link here -->
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Rishant12220055/Portfolio/issues).
 
 ## 📫 Contact
 
-Rishant Vikramaditya - [your.email@example.com](mailto:your.email@example.com) <!-- Add your email here -->
+Rishant Vikramaditya - [rishantvik@gmail.com](mailto:rishantvik@gmail.com)
 
-Project Link: [https://github.com/your_username/your_repository](https://github.com/your_username/your_repository) <!-- Add your repo link here -->
+Project Link: [https://github.com/Rishant12220055/Portfolio](https://github.com/Rishant12220055/Portfolio)
